@@ -5,4 +5,5 @@ This article is interesting in how it explores the development of a new technolo
 
 Just as Agile was developed to help product teams understand changes in circumstances and modify their approach to deal with temin order to build tools in such a process that they support repeatibility and can be used easily by others. Similarly, Agile-like techniques can help in Machine Learning by improving communication and the understanding of objectives.
 
->Edits by Ayesha Zafar: I agree with your analysis of how ML is set to be used more extensively used in the SWE world and the need for more dynamic methodologies.
+
+##### Your analysis of this article is spot on and insightful. I agree with the fact that ML is set to dominate the SWE world owing to its convenience and dyanmic nature. - Ayesha
